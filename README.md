@@ -30,7 +30,7 @@ pip install PyPDF2 exifread pyfiglet
 Clone this repository to your local machine:
 
 ```Copy code
-git clone https://github.com/yourusername/MetaScan.git
+git clone https://github.com/ysfhmtky/MetaScan.git
 cd MetaScan
 ```
 Run the script:
